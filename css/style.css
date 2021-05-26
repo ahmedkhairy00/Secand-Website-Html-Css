@@ -10,6 +10,9 @@
   --sectionPadding:60px 0;
   --mainMargin:100px 0;
 }
+html{
+  scroll-behavior: smooth;
+}
 body{
   font-family: 'Raleway', sans-serif;
 }
